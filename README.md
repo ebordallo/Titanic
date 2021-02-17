@@ -47,7 +47,6 @@ El código esta implementado en un fichero markdown de R **Titanic_Practice.Rmd*
 * **CSV / train.csv** : fichero plano, en formato CSV con los datos de entrenamiento.
 * **CSV / Titanic_clean.csv** : fichero plano, en formato CSV con los datos de entrenamiento procesados.
 * **CSV / test.csv** : fichero plano, en formato CSV con los datos de prueba.
-* **Este es un cambio
 
 ### Licencia
 La licencia de base de datos abierta **(ODbL)** es un acuerdo de licencia destinado a permitir que los usuarios compartan, modifiquen y utilicen esta base de datos de forma gratuita mientras mantienen esta misma libertad para otros. Algunas jurisdicciones tienen derechos específicos que cubren bases de datos, por lo que la ODbL aborda estos derechos también. El ODbL también es un acuerdo en el contrato para que los usuarios de esta base de datos actúen de ciertas maneras a cambio de acceder a esta base de datos
